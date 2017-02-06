@@ -4,7 +4,7 @@
     <Identity Id="b3baec7f-1087-44f7-bd6d-bca6c0ef8ace" Version="1.0" Language="en-US" Publisher="Bruno F Valli" />
     <DisplayName>NewGuidVSExt</DisplayName>
     <Description xml:space="preserve">Right click into a file and get all the GUIDs into that file refreshed.</Description>
-    <License>Recources\LICENSE</License>
+    <License>Resources\LICENSE</License>
     <Icon>Resources\Icon.png</Icon>
     <PreviewImage>Resources\Preview.png</PreviewImage>
     <Tags>GUID, Refresh</Tags>
