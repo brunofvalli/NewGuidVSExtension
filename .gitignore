@@ -1,29 +1,23 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+packages
 
-# Precompiled Headers
-*.gch
-*.pch
+# User files
+*.suo
+*.user
+*.sln.docstates
+.vs/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
 
-# Fortran module files
-*.mod
-*.smod
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# NCrunch
+*.ncrunchsolution
+*.ncrunchproject
+_NCrunch_WebCompiler
